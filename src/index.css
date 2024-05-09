@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.custom-nav-background-color {
+    background-color: white;
+    color: black;
+    opacity: 100;
+    align-items: end;
+}
+
+.connect {
+  
+font-family: "Press Start 2P", system-ui;
+font-style: normal;
+   
+}
+
+.nav{
+    z-index: 1000;
+    background:linear-gradient(245.59deg,#4d9559 0%,#38703d 28.53%,#133917 75.52%) !important;
+}
+
+.hero-section {
+    background:linear-gradient(245.59deg,#4d9559 0%,#38703d 28.53%,#133917 75.52%);
+}
+
+.project-duration-items{
+    color: #4d9559;
+}
+.project-duration-items-sub{
+    color: rgb(87, 88, 89);
+    font-size: 24px;
+    font-weight: 700;
+}
+.h2{
+    font-weight:bolder;
+    color: rgb(62, 62, 62);
+    /*border-left: #133917 solid 10px;
+    border-radius: 10px;
+    padding-left: 20px;*/
+}
+
+
+
+

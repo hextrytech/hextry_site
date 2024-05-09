@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="270" height="270" viewBox="0 0 270 270">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_335" data-name="Ellipse 335" cx="135" cy="135" r="135" transform="translate(926 2320)" fill="#9352de" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="408" height="387" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_32" data-name="Mask Group 32" transform="translate(-926 -2320)" opacity="0.14" clip-path="url(#clip-path)">
+    <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(898 2273)" clip-path="url(#clip-path-2)">
+      <g transform="translate(-888 -2257)">
+        <rect id="Rectangle_845" data-name="Rectangle 845" width="21" height="516" transform="translate(888 2257)" fill="#9352de"/>
+      </g>
+      <g transform="translate(-847 -2257)">
+        <rect id="Rectangle_845-2" data-name="Rectangle 845" width="21" height="516" transform="translate(888 2257)" fill="#9352de"/>
+      </g>
+      <g transform="translate(-806 -2257)">
+        <rect id="Rectangle_845-3" data-name="Rectangle 845" width="21" height="516" transform="translate(888 2257)" fill="#9352de"/>
+      </g>
+      <g transform="translate(-765 -2257)">
+        <rect id="Rectangle_845-4" data-name="Rectangle 845" width="21" height="516" transform="translate(888 2257)" fill="#9352de"/>
+      </g>
+      <g transform="translate(-724 -2257)">
+        <rect id="Rectangle_845-5" data-name="Rectangle 845" width="21" height="516" transform="translate(888 2257)" fill="#9352de"/>
+      </g>
+      <g transform="translate(-683 -2257)">
+        <rect id="Rectangle_845-6" data-name="Rectangle 845" width="21" height="516" transform="translate(888 2257)" fill="#9352de"/>
+      </g>
+      <g transform="translate(-642 -2257)">
+        <rect id="Rectangle_845-7" data-name="Rectangle 845" width="21" height="516" transform="translate(888 2257)" fill="#9352de"/>
+      </g>
+      <g transform="translate(-601 -2257)">
+        <rect id="Rectangle_845-8" data-name="Rectangle 845" width="21" height="516" transform="translate(888 2257)" fill="#9352de"/>
+      </g>
+      <g transform="translate(-560 -2257)">
+        <rect id="Rectangle_845-9" data-name="Rectangle 845" width="21" height="516" transform="translate(888 2257)" fill="#9352de"/>
+      </g>
+      <g transform="translate(-519 -2257)">
+        <rect id="Rectangle_845-10" data-name="Rectangle 845" width="21" height="516" transform="translate(888 2257)" fill="#9352de"/>
+      </g>
+    </g>
+  </g>
+</svg>
